@@ -67,9 +67,9 @@ Don't forget to place the link of where to buy each component inside the quotati
 
 | **Part** | **Note** | **Price** | **Link** |
 |:--:|:--:|:--:|:--:|
-| Arduino Pro Mini | What the item is used for | $11 | <a href="[https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/](https://www.amazon.com/Arduino-Pro-Mini-328-16MHz/dp/B004G53J5I/ref=sr_1_4?crid=364JBWC6GBAO2&keywords=arduino+pro+mini&qid=1686772528&sprefix=arduino+pro+mini%2Caps%2C268&sr=8-4)"> Link </a> |
+| Arduino Pro Mini | What the item is used for | $11 | <a href="(https://www.amazon.com/Arduino-Pro-Mini-328-16MHz/dp/B004G53J5I/ref=sr_1_4?crid=364JBWC6GBAO2&keywords=arduino+pro+mini&qid=1686772528&sprefix=arduino+pro+mini%2Caps%2C268&sr=8-4)"> Link </a> |
 |:--:|:--:|:--:|:--:|
-| Ultrasonic Sensor | What the item is used for | $9 for 5 | <a href="https://www.amazon.com/Smraza-Ultrasonic-Distance-Mounting-Duemilanove/dp/B01JG09DCK/ref=sr_1_4?crid=2SIJ8QBUEDTDC&keywords=ultrasonic+sensors&qid=1686772613&sprefix=ultrasonic+sensor%2Caps%2C179&sr=8-4)](https://www.amazon.com/Smraza-Ultrasonic-Distance-Mounting-Duemilanove/dp/B01JG09DCK/ref=sr_1_4?crid=2SIJ8QBUEDTDC&keywords=ultrasonic+sensors&qid=1686772613&sprefix=ultrasonic+sensor%2Caps%2C179&sr=8-4)"> Link </a> |
+| Ultrasonic Sensor | What the item is used for | $9 for 5 | <a href="https://www.amazon.com/Smraza-Ultrasonic-Distance-Mounting-Duemilanove/dp/B01JG09DCK/ref=sr_1_4?crid=2SIJ8QBUEDTDC&keywords=&qid=1686772613&sprefix=ultrasonic+sensor%2Caps%2C179&sr=8-4"> Link </a> |
 |:--:|:--:|:--:|:--:|
 | Buzzer | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
 |:--:|:--:|:--:|:--:|
