@@ -71,7 +71,7 @@ Don't forget to place the link of where to buy each component inside the quotati
 |:--:|:--:|:--:|:--:|
 | Ultrasonic Sensor | What the item is used for | $9 for 5 | <a href="https://www.amazon.com/Smraza-Ultrasonic-Distance-Mounting-Duemilanove/dp/B01JG09DCK/ref=sr_1_4?crid=2SIJ8QBUEDTDC&keywords=&qid=1686772613&sprefix=ultrasonic+sensor%2Caps%2C179&sr=8-4"> Link </a> |
 |:--:|:--:|:--:|:--:|
-| Buzzer | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+| Buzzer | What the item is used for | $7 for 10 | <a href="https://www.amazon.com/mxuteuk-Electronic-Computers-Printers-Components/dp/B07VK1GJ9X/"> Link </a> |
 |:--:|:--:|:--:|:--:|
 | Vibrating Motor | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
 |:--:|:--:|:--:|:--:|
