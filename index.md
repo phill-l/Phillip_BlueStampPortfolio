@@ -83,7 +83,7 @@ Don't forget to place the link of where to buy each component inside the quotati
 |:--:|:--:|:--:|:--:|
 | Female Header 8 Position 1 Row (0.1") | What the item is used for | $6 | <a href="https://www.amazon.com/HiLetgo-Single-Female-2-54mm-Vertical/dp/B00VVI1L1W/"> Link </a> |
 |:--:|:--:|:--:|:--:|
-| Male Header 40 Position 1 Row (0.1") | What the item is used for | $Price | <a href="https://www.amazon.com/ZYAMY-2-54mm-Breakable-Straight-Connector/dp/B0778KCHHR/"> Link </a> |
+| Male Header 40 Position 1 Row (0.1") | What the item is used for | $11 | <a href="https://www.amazon.com/ZYAMY-2-54mm-Breakable-Straight-Connector/dp/B0778KCHHR/"> Link </a> |
 |:--:|:--:|:--:|:--:|
 | Jumper wires | What the item is used for | $12 | <a href="https://www.amazon.com/AUSTOR-Lengths-Assorted-Preformed-Breadboard/dp/B07CJYSL2T/"> Link </a> |
 |:--:|:--:|:--:|:--:|
