@@ -69,11 +69,11 @@ Don't forget to place the link of where to buy each component inside the quotati
 |:--:|:--:|:--:|:--:|
 | Arduino Pro Mini | What the item is used for | $11 | <a href="https://www.amazon.com/Arduino-Pro-Mini-328-16MHz/dp/B004G53J5I/"> Link </a> |
 |:--:|:--:|:--:|:--:|
-| Ultrasonic Sensor | What the item is used for | $9 for 5 | <a href="https://www.amazon.com/Smraza-Ultrasonic-Distance-Mounting-Duemilanove/dp/B01JG09DCK/"> Link </a> |
+| Ultrasonic Sensor | What the item is used for | $9 | <a href="https://www.amazon.com/Smraza-Ultrasonic-Distance-Mounting-Duemilanove/dp/B01JG09DCK/"> Link </a> |
 |:--:|:--:|:--:|:--:|
-| Buzzer | What the item is used for | $7 for 10 | <a href="https://www.amazon.com/mxuteuk-Electronic-Computers-Printers-Components/dp/B07VK1GJ9X/"> Link </a> |
+| Buzzer | What the item is used for | $7 | <a href="https://www.amazon.com/mxuteuk-Electronic-Computers-Printers-Components/dp/B07VK1GJ9X/"> Link </a> |
 |:--:|:--:|:--:|:--:|
-| Vibrating Motor | What the item is used for | $11 for 5 | <a href="https://www.amazon.com/tatoko-vibration-Waterproof-8000-16000RPM-toothbrush/dp/B07KYLZC1S/"> Link </a> |
+| Vibrating Motor | What the item is used for | $11 | <a href="https://www.amazon.com/tatoko-vibration-Waterproof-8000-16000RPM-toothbrush/dp/B07KYLZC1S/"> Link </a> |
 |:--:|:--:|:--:|:--:|
 | Perfboard | What the item is used for | $10 | <a href="https://www.amazon.com/ELEGOO-Prototype-Soldering-Compatible-Arduino/dp/B072Z7Y19F/"> Link </a> |
 |:--:|:--:|:--:|:--:|
