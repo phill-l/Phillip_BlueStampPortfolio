@@ -69,31 +69,31 @@ Don't forget to place the link of where to buy each component inside the quotati
 
 | **Part** | **Note** | **Price** | **Link** |
 |:--:|:--:|:--:|:--:|
-| Arduino Pro Mini | What the item is used for | $11 | <a href="https://www.amazon.com/Arduino-Pro-Mini-328-16MHz/dp/B004G53J5I/"> Link </a> |
+| Arduino Pro Mini | Stores the code and allows the system to work when connected to power | $11 | <a href="https://www.amazon.com/Arduino-Pro-Mini-328-16MHz/dp/B004G53J5I/"> Link </a> |
 |:--:|:--:|:--:|:--:|
-| Ultrasonic Sensor | What the item is used for | $9 | <a href="https://www.amazon.com/Smraza-Ultrasonic-Distance-Mounting-Duemilanove/dp/B01JG09DCK/"> Link </a> |
+| Ultrasonic Sensor | Senses the proximity of nearby objects | $9 | <a href="https://www.amazon.com/Smraza-Ultrasonic-Distance-Mounting-Duemilanove/dp/B01JG09DCK/"> Link </a> |
 |:--:|:--:|:--:|:--:|
-| Buzzer | What the item is used for | $7 | <a href="https://www.amazon.com/mxuteuk-Electronic-Computers-Printers-Components/dp/B07VK1GJ9X/"> Link </a> |
+| Buzzer | Buzzes when triggered | $7 | <a href="https://www.amazon.com/mxuteuk-Electronic-Computers-Printers-Components/dp/B07VK1GJ9X/"> Link </a> |
 |:--:|:--:|:--:|:--:|
-| Vibrating Motor | What the item is used for | $11 | <a href="https://www.amazon.com/tatoko-vibration-Waterproof-8000-16000RPM-toothbrush/dp/B07KYLZC1S/"> Link </a> |
+| Vibrating Motor | Vibrates when triggered | $11 | <a href="https://www.amazon.com/tatoko-vibration-Waterproof-8000-16000RPM-toothbrush/dp/B07KYLZC1S/"> Link </a> |
 |:--:|:--:|:--:|:--:|
-| Perfboard | What the item is used for | $10 | <a href="https://www.amazon.com/ELEGOO-Prototype-Soldering-Compatible-Arduino/dp/B072Z7Y19F/"> Link </a> |
+| Perfboard | Connects all the components of the system | $10 | <a href="https://www.amazon.com/ELEGOO-Prototype-Soldering-Compatible-Arduino/dp/B072Z7Y19F/"> Link </a> |
 |:--:|:--:|:--:|:--:|
-| 5mm Red LED | What the item is used for | $6 | <a href="https://www.amazon.com/Diffused-Lighting-Electronics-Components-Emitting/dp/B01C3ZZT0A/"> Link </a> |
+| 5mm Red LED | Flashes on and off when triggered | $6 | <a href="https://www.amazon.com/Diffused-Lighting-Electronics-Components-Emitting/dp/B01C3ZZT0A/"> Link </a> |
 |:--:|:--:|:--:|:--:|
-| Slide Switch | What the item is used for | $6 | <a href="https://www.amazon.com/HiLetgo-SS-12D00-Toggle-Switch-Vertical/dp/B07RTJDW27/"> Link </a> |
+| Slide Switch | Switches the system between using the buzzer and using the motor | $6 | <a href="https://www.amazon.com/HiLetgo-SS-12D00-Toggle-Switch-Vertical/dp/B07RTJDW27/"> Link </a> |
 |:--:|:--:|:--:|:--:|
 | Female Header 8 Position 1 Row (0.1") | What the item is used for | $6 | <a href="https://www.amazon.com/HiLetgo-Single-Female-2-54mm-Vertical/dp/B00VVI1L1W/"> Link </a> |
 |:--:|:--:|:--:|:--:|
 | Male Header 40 Position 1 Row (0.1") | What the item is used for | $11 | <a href="https://www.amazon.com/ZYAMY-2-54mm-Breakable-Straight-Connector/dp/B0778KCHHR/"> Link </a> |
 |:--:|:--:|:--:|:--:|
-| Jumper wires | What the item is used for | $12 | <a href="https://www.amazon.com/AUSTOR-Lengths-Assorted-Preformed-Breadboard/dp/B07CJYSL2T/"> Link </a> |
+| Jumper wires | Connects different parts of the system | $12 | <a href="https://www.amazon.com/AUSTOR-Lengths-Assorted-Preformed-Breadboard/dp/B07CJYSL2T/"> Link </a> |
 |:--:|:--:|:--:|:--:|
-| Power bank | What the item is used for | $18 | <a href="https://www.amazon.com/Anker-PowerCore-Ultra-Compact-High-Speed-Technology/dp/B01CU1EC6Y/"> Link </a> |
+| Power bank | Suppplies power to the system | $18 | <a href="https://www.amazon.com/Anker-PowerCore-Ultra-Compact-High-Speed-Technology/dp/B01CU1EC6Y/"> Link </a> |
 |:--:|:--:|:--:|:--:|
-| Soldering iron | What the item is used for | $17 | <a href="https://www.amazon.com/Soldering-Kit-Temperature-Desoldering-Electronics/dp/B07GTGGLXN/"> Link </a> |
+| Soldering iron | Solders all the wires together | $17 | <a href="https://www.amazon.com/Soldering-Kit-Temperature-Desoldering-Electronics/dp/B07GTGGLXN/"> Link </a> |
 |:--:|:--:|:--:|:--:|
-| Hot Glue Gun and Hot Glue Sticks | What the item is used for | $28 | <a href="https://www.amazon.com/Gorilla-8401509-Hot-Glue-Sticks/dp/B088HF5ZQ1/"> Link </a> |
+| Hot Glue Gun and Hot Glue Sticks | Allows the system to be glued onto a wearable piece of clothing | $28 | <a href="https://www.amazon.com/Gorilla-8401509-Hot-Glue-Sticks/dp/B088HF5ZQ1/"> Link </a> |
 |:--:|:--:|:--:|:--:|
 | Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
 |:--:|:--:|:--:|:--:|
