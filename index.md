@@ -40,6 +40,9 @@ For your first milestone, describe what your project is and how you plan to buil
 
 My project is the Third Eye for The Blind. In this project, I am using an ultrasonic sensor, a small vibrating motor, a buzzer, a switch, an LED light, and Arduino Micro. For my first milestone I created and coded a working system of this project on a breadboard. I was able to complete this task and got the project working. Once an object is close enough to the sensor the LED light flashes and either the buzzer or the motor turns on, depending on what side the switch is on. As the object gets closer to the sensor, the buzzes and flashes happen more frequently. A few challenges I had while making it to this first milestone were familiarizing myself with the materials and processes needed to complete this project. I needed to introduce myself the skills of soldering, breadboarding, and coding with Arduino. One problem I hope to fix with my project for the next milestone is a difficulty with the LED light. When the switch is on the buzzer, the LED light is very dim, but when flipped over to the motor, the light flashes significantly brighter.
 
+![Milestone 1 photo](https://github.com/phill-l/Phillip_BlueStampPortfolio/assets/136639408/aff25861-bb4a-441b-8891-f7009986d1bc)
+
+
 **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CaCazFBhYKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
