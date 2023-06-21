@@ -40,8 +40,6 @@ For your first milestone, describe what your project is and how you plan to buil
 
 My project is the Third Eye for The Blind. In this project, I am using an ultrasonic sensor, a small vibrating motor, a buzzer, a switch, an LED light, and Arduino Micro. For my first milestone I created and coded a working system of this project on a breadboard. I was able to complete this task and got the project working. Once an object is close enough to the sensor the LED light flashes and either the buzzer or the motor turns on, depending on what side the switch is on. As the object gets closer to the sensor, the buzzes and flashes happen more frequently. A few challenges I had while making it to this first milestone were familiarizing myself with the materials and processes needed to complete this project. I needed to introduce myself the skills of soldering, breadboarding, and coding with Arduino. One problem I hope to fix with my project for the next milestone is a difficulty with the LED light. When the switch is on the buzzer, the LED light is very dim, but when flipped over to the motor, the light flashes significantly brighter.
 
-![Milestone 1 photo](https://github.com/phill-l/Phillip_BlueStampPortfolio/assets/136639408/aff25861-bb4a-441b-8891-f7009986d1bc)
-
 
 **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
@@ -72,31 +70,31 @@ Don't forget to place the link of where to buy each component inside the quotati
 
 | **Part** | **Note** | **Price** | **Link** |
 |:--:|:--:|:--:|:--:|
-| Arduino Pro Mini | Stores the code and allows the system to work when connected to power | $11 | <a href="https://www.amazon.com/Arduino-Pro-Mini-328-16MHz/dp/B004G53J5I/"> Link </a> |
+| Arduino Pro Mini | Stores the code and allows the system to work when connected to power | $10.95 | <a href="https://www.amazon.com/Arduino-Pro-Mini-328-16MHz/dp/B004G53J5I/"> Link </a> |
 |:--:|:--:|:--:|:--:|
-| Ultrasonic Sensor | Senses the proximity of nearby objects | $9 | <a href="https://www.amazon.com/Smraza-Ultrasonic-Distance-Mounting-Duemilanove/dp/B01JG09DCK/"> Link </a> |
+| Ultrasonic Sensor | Senses the proximity of nearby objects | $8.99 | <a href="https://www.amazon.com/Smraza-Ultrasonic-Distance-Mounting-Duemilanove/dp/B01JG09DCK/"> Link </a> |
 |:--:|:--:|:--:|:--:|
-| Buzzer | Buzzes when triggered | $7 | <a href="https://www.amazon.com/mxuteuk-Electronic-Computers-Printers-Components/dp/B07VK1GJ9X/"> Link </a> |
+| Buzzer | Buzzes when triggered | $6.98 | <a href="https://www.amazon.com/mxuteuk-Electronic-Computers-Printers-Components/dp/B07VK1GJ9X/"> Link </a> |
 |:--:|:--:|:--:|:--:|
-| Vibrating Motor | Vibrates when triggered | $11 | <a href="https://www.amazon.com/tatoko-vibration-Waterproof-8000-16000RPM-toothbrush/dp/B07KYLZC1S/"> Link </a> |
+| Vibrating Motor | Vibrates when triggered | $10.69 | <a href="https://www.amazon.com/tatoko-vibration-Waterproof-8000-16000RPM-toothbrush/dp/B07KYLZC1S/"> Link </a> |
 |:--:|:--:|:--:|:--:|
-| Perfboard | Connects all the components of the system | $10 | <a href="https://www.amazon.com/ELEGOO-Prototype-Soldering-Compatible-Arduino/dp/B072Z7Y19F/"> Link </a> |
+| Perfboard | Connects all the components of the system | $9.99 | <a href="https://www.amazon.com/ELEGOO-Prototype-Soldering-Compatible-Arduino/dp/B072Z7Y19F/"> Link </a> |
 |:--:|:--:|:--:|:--:|
-| 5mm Red LED | Flashes on and off when triggered | $6 | <a href="https://www.amazon.com/Diffused-Lighting-Electronics-Components-Emitting/dp/B01C3ZZT0A/"> Link </a> |
+| 5mm Red LED | Flashes on and off when triggered | $5.99 | <a href="https://www.amazon.com/Diffused-Lighting-Electronics-Components-Emitting/dp/B01C3ZZT0A/"> Link </a> |
 |:--:|:--:|:--:|:--:|
-| Slide Switch | Switches the system between using the buzzer and using the motor | $6 | <a href="https://www.amazon.com/HiLetgo-SS-12D00-Toggle-Switch-Vertical/dp/B07RTJDW27/"> Link </a> |
+| Slide Switch | Switches the system between using the buzzer and using the motor | $5.39 | <a href="https://www.amazon.com/HiLetgo-SS-12D00-Toggle-Switch-Vertical/dp/B07RTJDW27/"> Link </a> |
 |:--:|:--:|:--:|:--:|
-| Female Header 8 Position 1 Row (0.1") | What the item is used for | $6 | <a href="https://www.amazon.com/HiLetgo-Single-Female-2-54mm-Vertical/dp/B00VVI1L1W/"> Link </a> |
+| Female Header 8 Position 1 Row (0.1") | What the item is used for | $5.99 | <a href="https://www.amazon.com/HiLetgo-Single-Female-2-54mm-Vertical/dp/B00VVI1L1W/"> Link </a> |
 |:--:|:--:|:--:|:--:|
-| Male Header 40 Position 1 Row (0.1") | What the item is used for | $11 | <a href="https://www.amazon.com/ZYAMY-2-54mm-Breakable-Straight-Connector/dp/B0778KCHHR/"> Link </a> |
+| Male Header 40 Position 1 Row (0.1") | What the item is used for | $10.99 | <a href="https://www.amazon.com/ZYAMY-2-54mm-Breakable-Straight-Connector/dp/B0778KCHHR/"> Link </a> |
 |:--:|:--:|:--:|:--:|
-| Jumper wires | Connects different parts of the system | $12 | <a href="https://www.amazon.com/AUSTOR-Lengths-Assorted-Preformed-Breadboard/dp/B07CJYSL2T/"> Link </a> |
+| Jumper wires | Connects different parts of the system | $11.99 | <a href="https://www.amazon.com/AUSTOR-Lengths-Assorted-Preformed-Breadboard/dp/B07CJYSL2T/"> Link </a> |
 |:--:|:--:|:--:|:--:|
-| Power bank | Suppplies power to the system | $18 | <a href="https://www.amazon.com/Anker-PowerCore-Ultra-Compact-High-Speed-Technology/dp/B01CU1EC6Y/"> Link </a> |
+| Power bank | Suppplies power to the system | $17.99 | <a href="https://www.amazon.com/Anker-PowerCore-Ultra-Compact-High-Speed-Technology/dp/B01CU1EC6Y/"> Link </a> |
 |:--:|:--:|:--:|:--:|
-| Soldering iron | Solders all the wires together | $17 | <a href="https://www.amazon.com/Soldering-Kit-Temperature-Desoldering-Electronics/dp/B07GTGGLXN/"> Link </a> |
+| Soldering iron | Solders all the wires together | $16.99 | <a href="https://www.amazon.com/Soldering-Kit-Temperature-Desoldering-Electronics/dp/B07GTGGLXN/"> Link </a> |
 |:--:|:--:|:--:|:--:|
-| Hot Glue Gun and Hot Glue Sticks | Allows the system to be glued onto a wearable piece of clothing | $28 | <a href="https://www.amazon.com/Gorilla-8401509-Hot-Glue-Sticks/dp/B088HF5ZQ1/"> Link </a> |
+| Hot Glue Gun and Hot Glue Sticks | Allows the system to be glued onto a wearable piece of clothing | $27.49 | <a href="https://www.amazon.com/Gorilla-8401509-Hot-Glue-Sticks/dp/B088HF5ZQ1/"> Link </a> |
 |:--:|:--:|:--:|:--:|
 | Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
 |:--:|:--:|:--:|:--:|
