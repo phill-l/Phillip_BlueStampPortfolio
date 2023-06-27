@@ -25,7 +25,9 @@ For your second milestone, explain what you've worked on since your previous mil
 - Technical details of what you've accomplished and how they contribute to the final goal
 - What has been surprising about the project so far
 - Previous challenges you faced that you overcame
-- What needs to be completed before your final milestone 
+- What needs to be completed before your final milestone
+
+My second milestone is making modifications to the function of the system and modifying the code to fit these modifications. For this modification, I added a switch to change between two different ranges on the sensor. One setting is an "Indoor" mode and has a shorter range that will start signalling at 100 cm away from the sensor. Those with visual impairments will be able to use this setting in more crowded areas where there are more objects in a close proximity. The next setting is an "Outdoor" mode which has a larger range that will start signalling at 300 cm away. This setting would be used for larger, open areas. One challenging part of this milestone was creating the code to go with the switching of settings. I had to learn new techniques and change them to make them work with my situation. The final task that needs to be done before completing my project will be taking my project off the breadboard. I will need to work with connecting wires together and making the whole system work. Also, I will need to measure out all the wires lengths to make sure I have the correct dimensions for the final product.  The final product will be connecting the system to a baseball hat, with the sensor on the bill of the cap.
 
 **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
