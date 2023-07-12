@@ -50,6 +50,9 @@ My project is the Third Eye for The Blind. In this project, I am using an ultras
 # Schematics 
 Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. 
 
+![Schematics](https://github.com/phill-l/Phillip_BlueStampPortfolio/assets/136639408/26cde561-dca9-4555-b4a7-010f8360a56f)
+
+
 # Code
 Here's where you'll put your code. The syntax below places it into a block of code. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize it to your project needs. 
 
