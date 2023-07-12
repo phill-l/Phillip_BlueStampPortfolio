@@ -57,15 +57,69 @@ Here's where you'll put images of your schematics. [Tinkercad](https://www.tinke
 Here's where you'll put your code. The syntax below places it into a block of code. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize it to your project needs. 
 
 ```c++
+const int pingTrigPin = 3;   // Trigger connected to PIN 3
+const int pingEchoPin = 2;   // Echo connected to PIN 2
+const int buz = 4;           // Buzzer connected to PIN 4
+const int buttonPin = 5;     // Button connected to PIN 5
+
+int rangeMode = 0;           // Variable to store the current range mode
+bool buttonState = HIGH;     // Variable to store the state of the button
+bool lastButtonState = HIGH; // Variable to store the previous state of the button
+
 void setup() {
-  // put your setup code here, to run once:
   Serial.begin(9600);
-  Serial.println("Hello World!");
+  pinMode(buz, OUTPUT);
+  pinMode(buttonPin, INPUT_PULLUP);
 }
 
 void loop() {
-  // put your main code here, to run repeatedly:
+  long duration, cm;
+  buttonState = digitalRead(buttonPin);
 
+  // Check if the button state has changed
+  if (buttonState != lastButtonState) {
+    // If the button is pressed, change the range mode
+    if (buttonState == LOW) {
+      rangeMode = 1;  // Set the range mode to 1 (button pressed)
+    } else {
+      rangeMode = 0;  // Set the range mode to 0 (button not pressed)
+    }
+    delay(50);  // Add a small delay to debounce the button
+  }
+
+  lastButtonState = buttonState;
+
+  pinMode(pingTrigPin, OUTPUT);
+  digitalWrite(pingTrigPin, LOW);
+  delayMicroseconds(2);
+  digitalWrite(pingTrigPin, HIGH);
+  delayMicroseconds(5);
+  digitalWrite(pingTrigPin, LOW);
+  pinMode(pingEchoPin, INPUT);
+  duration = pulseIn(pingEchoPin, HIGH);
+  cm = microsecondsToCentimeters(duration);
+
+  if (cm > 0) {
+    if ((rangeMode == 0 && cm <= 100) || (rangeMode == 1 && cm <= 300)) {
+      int d = map(cm, 1, 600, 20, 2000);
+      activateBuzzer(d);
+    }
+  }
+
+  Serial.print(cm);
+  Serial.println(" cm");
+  delay(100);
+}
+
+long microsecondsToCentimeters(long microseconds) {
+  return microseconds / 29 / 2;
+}
+
+void activateBuzzer(int delayTime) {
+  digitalWrite(buz, HIGH);
+  delay(100);
+  digitalWrite(buz, LOW);
+  delay(delayTime);
 }
 ```
 
